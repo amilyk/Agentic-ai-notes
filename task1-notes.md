@@ -1,3 +1,6 @@
+### Task1学习笔记（Agentic-AI简介）
+> 本笔记是基于Datawhale开源课程 [Agentic‑AI]([https://](https://github.com/datawhalechina/agentic-ai)) 的个人学习笔记
+
 ## 智能体 AI（Agentic AI）
 
 *概念来源*：Andrew NG 提出，定义为 **基于基础模型（Foundation Model）构建的应用**。
