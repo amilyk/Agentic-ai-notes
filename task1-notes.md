@@ -1,4 +1,4 @@
-# Task1学习笔记（Agentic-AI简介）
+# Agentic-AI简介（Task1学习笔记）
 > 本笔记是基于Datawhale开源课程 [Agentic‑AI]([https://](https://github.com/datawhalechina/agentic-ai)) 的个人学习笔记
 
 ## 智能体 AI（Agentic AI）
