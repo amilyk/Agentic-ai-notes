@@ -1,12 +1,12 @@
 # Agentic-AI简介（Task1学习笔记）
 > 本笔记是基于Datawhale开源课程 [Agentic‑AI](https://github.com/datawhalechina/agentic-ai) 的个人学习笔记
 
-### 1️⃣ 智能体 AI（Agentic AI）
+## 1️⃣ 智能体 AI（Agentic AI）
 
 *概念来源*：Andrew NG 提出，定义为 **基于基础模型（Foundation Model）构建的应用**。
 
 ---
-### 2️⃣ 智能体工作流分类
+## 2️⃣ 智能体工作流分类
 #### 非智能体工作流
 
 - **0‑shot**：不提供案例，直接向 LLM 提需求，让其完成任务。
