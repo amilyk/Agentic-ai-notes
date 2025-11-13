@@ -1,4 +1,4 @@
-### Task2学习笔记（反思设计模式）
+# Task2学习笔记（反思设计模式）
 
 > 本笔记是基于Datawhale开源课程[Agentic‑AI](https://github.com/datawhalechina/agentic-ai) 的@kangxun 学习笔记
 
