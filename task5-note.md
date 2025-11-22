@@ -21,7 +21,7 @@
 **实践结论**：
 
 + 制定一个复杂的开发任务，LLM能生成文案，再文生图，然后再生成slogan及理由，最后把图文整理成报告，多智能体协作可以快速给出方案，很让人惊奇。
-+ 发现自己对多模态的API调用不熟悉，DeepLearning.ai官方可以使用openai，但本地实现的时候，转换成开源大模型方案上还是花了大量时间，另外对每个模型适用场景不熟悉。文生图时候，替换成huggingface上stable-diffusion-xl-base-1.0，效果不如DALLE3，后续也可以改成Qwen3-VL根据文案生成图，而不是拆分2步。
++ 发现自己对多模态的API调用不熟悉，DeepLearning.ai官方可以使用openai，但本地实现的时候，转换成开源大模型方案上还是花了大量时间，另外对多模态模型适用场景不熟悉。文生图时候，替换成huggingface上stable-diffusion-xl-base-1.0，效果不如DALLE3，后续也可以改成Qwen3-VL根据文案生成图，而不是拆分2步。
 + 想用OpenAI作为统一接口，调用huggingface文生图模型还是没成功，最后用huggingface_hub去做的。
 
 ---
